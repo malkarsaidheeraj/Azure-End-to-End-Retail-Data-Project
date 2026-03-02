@@ -15,6 +15,11 @@
         "p_sink_file" : "AdventureWorks_Product_Subcategories.csv"
     },
     {
+        "p_rel_url" : "/malkarsaidheeraj/Azure-End-to-End-Retail-Data-Project/refs/heads/main/data/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder" : "Product_Categories",
+        "p_sink_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
         "p_rel_url" : "/malkarsaidheeraj/Azure-End-to-End-Retail-Data-Project/refs/heads/main/data/AdventureWorks_Products.csv",
         "p_sink_folder" : "AdventureWorks_Products",
         "p_sink_file" : "AdventureWorks_Products.csv"
